@@ -1,4 +1,8 @@
 # NBAAnalysis
+![Točke Dallas Mavericks po tekmah
+![image](https://github.com/user-attachments/assets/01c25bbb-3544-4736-a085-59087099d1fe)
+](Visuals/Tocke Dallas Mavericks po tekmah 2023.png)  
+*Line chart showing predicted Bitcoin price trends for February 2025. Created in Excel.*
 Analysis of Dallas Mavericks 2023-24 season schedule and results, including points per game, wins/losses, and visualizations.
 # Dallas Mavericks 2023-24 Season Analysis: Schedule and Results
 
